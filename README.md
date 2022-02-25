@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://discord.gg/Ad5cmz7Hs2"><img src="https://img.shields.io/badge/DISCORD-Support-7289da?style=for-the-badge" alt="zn10plays"></a>
   <a href="https://github.com/zn10plays"><img src="https://img.shields.io/static/v1?label=Currently%20learning&message=typescript&color=blue&style=for-the-badge" alt="amoraschi" href=""></a>
-  <a href="https://github.com/zn10plays"><img src="https://img.shields.io/static/v1?label=interested%20in&message=machine Learning&color=black&style=for-the-badge" alt="zn10plays"></a>
+  <a href="https://github.com/zn10plays"><img src="https://img.shields.io/static/v1?label=interested%20in&message=Machine Learning&color=black&style=for-the-badge" alt="zn10plays"></a>
   <a href="https://github.com/amoraschi"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=zn10plays&style=for-the-badge&color=brightgreen" alt="zn10plays"></a>
 </p>
 <p align="center">
@@ -13,6 +13,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
 
-✈ Fun fact: **I can speak 3 languages**
+» Fun fact: **I can speak 3 languages**
 
-✈ Currently trying to: **Learn how to combine things that I like to do with things that I have to do**
+» Currently trying to: **Learn how to combine things that I like to do with things that I have to do**
