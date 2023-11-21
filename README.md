@@ -4,7 +4,6 @@
   <a href="Welp I will figure this out later"><img src="https://img.shields.io/badge/DISCORD-Support-7289da?style=for-the-badge" alt="zn10plays"></a>
   <a href="https://github.com/zn10plays"><img src="https://img.shields.io/static/v1?label=Currently%20learning&message=typescript&color=blue&style=for-the-badge" alt="amoraschi" href=""></a>
   <a href="https://github.com/zn10plays"><img src="https://img.shields.io/static/v1?label=interested%20in&message=Machine Learning&color=black&style=for-the-badge" alt="zn10plays"></a>
-  <a href="https://github.com/zn10plays"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=zn10plays&style=for-the-badge&color=brightgreen" alt="zn10plays"></a>
 </p>
 
 ## Github Stats
